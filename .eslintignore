@@ -1,0 +1,11 @@
+build/
+public/
+**/coverage/
+**/node_modules/
+**/*.min.js
+*.config.js
+.*lintrc.js
+
+reportWebVitals.ts
+service-worker.ts
+serviceWorkerRegistration.ts
