@@ -46,6 +46,7 @@
     "preinstall": "typesync || :",
     "prepare": "simple-git-hooks > /dev/null"
   },
+  "homepage": "https://rruryu.github.io/react_pwa_timer",
   "simple-git-hooks": {
     "pre-commit": "npx lint-staged"
   },
